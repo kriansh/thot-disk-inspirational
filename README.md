@@ -1,5 +1,8 @@
 # Thot Disk – KDE Plasma Disk Usage Widget
 
+![Thot Disk Widget Preview](contents/Screenshot_20260128_173430.png)
+
+
 Thot Disk is a KDE Plasma widget that provides a minimalist and real-time visualization of disk usage and activity.  
 This project is a direct clone and adaptation of **Thot RAM** and **Thot CPU**, originally created by **ZayronXIO**.  
 Almost all of the code and the overall design philosophy come from their work, with the main difference being that this widget focuses on disk usage instead of RAM or CPU.
