@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adolfo@librepixels.com",
+                "Name": "zayronxio"
+            }
+        ],
+        "Name": "thot Disk",
+        "Id": "thot.observer.disk",
+        "Description": "utility to display the percentage of current disk usage",
+        "Category": "Utilities",
+        "Icon": "org.kde.ksysguard",
+        "EnabledByDefault": true,
+        "License": "GPL-3.0+",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "2.3",
+        "Website": "https://store.kde.org/p/2148469"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
